@@ -1,10 +1,24 @@
-## Hi there 👋, I'm Todd
+# Hi there 👋, I'm Todd
 
 ## I'm building Ops and Cloud Native skills in public.
 
-Things that I'm working on:
+Almost 30 years ago, I met my first love... of Linux, Red Hat v4.1 from a CD in the back of a book. Yes, a real book.
 
-## My HomeLab
+## Things that I'm working on:
+
+### My Homelab
+
+#### Security
+
+OPNSense
+
+### My Distros
+
+### Programming Languages 
+
+Python
+
+
 
 <!--
 **tpillars25/tpillars25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
