@@ -1,10 +1,10 @@
 ## Hi there 👋, I'm Todd
 
-# I'm building Ops and Cloud Native skills in public.
+## I'm building Ops and Cloud Native skills in public.
 
 Things that I'm working on:
 
-#My HomeLab
+## My HomeLab
 
 <!--
 **tpillars25/tpillars25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
