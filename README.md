@@ -14,9 +14,13 @@ OPNSense
 
 ### My Distros
 
-### Programming Languages 
+### Programming / Scripting
 
+Bash
 Python
+YAML
+JSON
+
 
 
 
