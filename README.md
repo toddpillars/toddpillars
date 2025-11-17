@@ -8,11 +8,16 @@ Almost 30 years ago, I met my first love... of Linux, Red Hat v4.1 from a CD in 
 
 ### My Homelab
 
+1 x Lenovo ThinkPad T480 i7/16G/512G 
+1 x HP EliteDesk 800 G3 i5/8G/256G
+
 #### Security
 
 OPNSense
 
 ### My Distros
+
+MBP 13" i5/8G/500G
 
 Ubuntu Server 24.04.3 LTS
 
