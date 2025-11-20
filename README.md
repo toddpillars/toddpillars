@@ -8,8 +8,12 @@ Almost 30 years ago, I met my first love... of Linux, Red Hat v4.1 from a CD in 
 
 ### My Homelab
 
-1 x Lenovo ThinkPad T480 i7/16G/512G 
-1 x HP EliteDesk 800 G3 i5/8G/256G
+1 x Lenovo ThinkPad T480 i7/16GB/512GB
+1 x Dell Inspiron 15 3558 i3/4GB/480GB
+1 x HP ProDesk 800 G3 i5/8GB/256GB
+1 x tp-link 8-port 10/100/1000
+
+Ubuntu Server 24.04.3 LTS
 
 #### Security
 
@@ -17,14 +21,16 @@ OPNSense
 
 ### My Distros
 
-MBP 13" i5/8G/500G
+MBP 13" i5/8GB/500GB
 
-Ubuntu Server 24.04.3 LTS
+Fedora 43
+Ubuntu 25.10
+
 
 ### Programming / Scripting
 
-Bash
 Python
+Bash
 YAML
 JSON
 
