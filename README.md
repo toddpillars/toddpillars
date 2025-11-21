@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Todd
+# Hi 👋, I'm Todd
 
 ## I'm building Ops and Cloud Native skills in public.
 
@@ -10,7 +10,7 @@ Almost 30 years ago, I met my first love... of Linux, Red Hat v4.1 from a CD in 
 
 1 x Lenovo ThinkPad T480 i7/16GB/512GB  
 1 x Dell Inspiron 15 3558 i3/4GB/480GB  
-1 x HP ProDesk 800 G3 i5/8GB/256GB  
+1 x HP ProDesk 600 G3 i5/8GB/256GB  
 1 x tp-link 8-port 10/100/1000  
 
 Ubuntu Server 24.04.3 LTS
