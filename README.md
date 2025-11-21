@@ -15,7 +15,7 @@ Almost 30 years ago, I met my first love... of Linux, Red Hat v4.1 from a CD in 
 
 Ubuntu Server 24.04.3 LTS
 
-#### Security
+### Security
 
 OPNSense
 
