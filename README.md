@@ -8,6 +8,8 @@ Now I host a 3-node Kubernetes Cluster behind my desk - soon to be 5!
 
 ## Things that I'm working on:
 
+Docker - native Linux support and why I chose Ubuntu LTS Server   
+
 Learning K3s and Rancher   
 
 Cloud Certifications - weighing whether it'll be GCP (Google Cloud Platform) or AWS (Amazon Web Services)   
@@ -26,7 +28,8 @@ Ubuntu Server 24.04.3 LTS
 
 1 x Lenovo ThinkPad T480 i7/16GB/512GB   
 
-Arch Linux   
+Arch Linux installed and successful 1st boot!   
+Learning the difference between systemd and sysvinit.
 
 ### Security
 
