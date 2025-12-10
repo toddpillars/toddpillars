@@ -6,13 +6,17 @@ Almost 30 years ago, I met my first love... of Linux, Red Hat v4.1 from a CD in 
 
 Now I host a 3-node Kubernetes Cluster behind my desk - soon to be 5!
 
+## My Certification Goals  
+
+2/28/26 for the Kubernetes and Cloud Native Associate Exam (KCNA) Exam  
+
+5/31/26 for the Certified Kubernetes Administrator (CKA) Exam  
+
 ## Things that I'm working on:
 
-Docker - native Linux support and why I chose Ubuntu LTS Server   
+Learning K3s with Rancher Desktop  
 
-Learning K3s and Rancher   
-
-Cloud Certifications - weighing whether it'll be GCP (Google Cloud Platform) or AWS (Amazon Web Services)   
+Cloud Certifications - still weighing whether it'll be GCP (Google Cloud Platform) or AWS (Amazon Web Services)   
 
 Terraform   
 
