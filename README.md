@@ -33,7 +33,8 @@ Ubuntu Server 24.04.3 LTS
 1 x Lenovo ThinkPad T480 i7/16GB/512GB   
 
 Arch Linux installed and successful 1st boot!   
-Learning the difference between systemd and sysvinit.
+Hyprland, alacritty, waybar, and QuteBrowser installed.  
+Sound,BT, and WiFi configured. Power Management next.
 
 ### Security
 
