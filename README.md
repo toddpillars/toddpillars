@@ -14,13 +14,11 @@ Now I host a 3-node Kubernetes Cluster behind my desk - soon to be 5!
 
 ## Things that I'm working on:
 
-Learning K3s with Rancher Desktop  
+Learning K3s.io (and Rancher Desktop)  
 
 Cloud Certifications - still weighing whether it'll be GCP (Google Cloud Platform) or AWS (Amazon Web Services)   
 
 Terraform   
-
-Studying for my LPIC-1   
 
 ### My Homelab
 
