@@ -6,6 +6,16 @@ Almost 30 years ago, I met my first love... of Linux, Red Hat v4.1 from a CD in 
 
 Now I host a 3-node Kubernetes Cluster behind my desk - soon to be 5!
 
+## My Philosophy on Technology 
+
+The Human Element  
+
+I am a USA Hockey Level 4 Youth Hockey Coach 
+
+I coach 16U-18U High School Varsity and JV level.  
+
+I also play with the Tampa Bay Lightning Warriors, a military veteran's team.
+
 ## My Certification Goals  
 
 2/28/26 for the Kubernetes and Cloud Native Associate Exam (KCNA) Exam  
