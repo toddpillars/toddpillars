@@ -54,7 +54,7 @@ JSON
 
 ### Books I'm Reading
 
-The DevOps Handbook https://amzn.to/496ick5 #ad
+The DevOps Handbook https://amzn.to/496ick5 #ad   
 The Pheonix Project https://amzn.to/4971ocP #ad   
 The Unicorn Project https://amzn.to/3MCcf75 #ad   
 
