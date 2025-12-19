@@ -1,6 +1,6 @@
 # Hi 👋, I'm Todd
 
-## I'm building Ops and Cloud Native skills in public.
+## I'm building Ops and Cloud Native skills in Public.
 
 Almost 30 years ago, I met my first love... of Linux, Red Hat v4.1 from a CD in the back of a book. Yes, a real book.
 
@@ -52,6 +52,11 @@ Bash
 YAML   
 JSON   
 
+### Books I'm Reading
+
+The DevOps Handbook https://amzn.to/496ick5 #ad
+The Pheonix Project https://amzn.to/4971ocP #ad   
+The Unicorn Project https://amzn.to/3MCcf75 #ad   
 
 <!--
 **tpillars25/tpillars25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
