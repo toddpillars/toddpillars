@@ -4,7 +4,7 @@
 
 Almost 30 years ago, I met my first love... of Linux, Red Hat v4.1 from a CD in the back of a book. Yes, a real book.
 
-Now I host a 3-node Kubernetes Cluster behind my desk - soon to be 5!
+Now I host a 3-node Kubernetes Cluster behind my desk!
 
 ## My Philosophy on Technology 
 
@@ -58,7 +58,7 @@ Ubuntu 25.10 Desktop
 ### Programming / Scripting
 
 Python   
-Bash   
+Bash <a href="https://tldp.org/LDP/Bash-Beginners-Guide/html/">Bash Guide for Beginners</a> by Machetelt Garrels   
 YAML   
 JSON   
 
