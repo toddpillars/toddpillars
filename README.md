@@ -24,7 +24,7 @@ I also play with the Tampa Bay Lightning Warriors, a military veteran's team.
 
 ## Things that I'm working on:
 
-Learning K3s.io (and Rancher Desktop)  
+Learning K3s.io in Public <a href="https://github.com/toddpillars/d3lli3-cluster">https://github.com/toddpillars/d3lli3-cluster</a>
 
 Cloud Certifications - still weighing whether it'll be GCP (Google Cloud Platform) or AWS (Amazon Web Services)   
 
