@@ -14,7 +14,7 @@ I am a USA Hockey Level 4 Youth Hockey Coach
 
 I coach 16U-18U High School Varsity and JV level.  
 
-I also play with the Tampa Bay Lightning Warriors, a military veteran's team.
+I also play with the Tampa Bay Lightning Warriors, a US Military Veteran's team.
 
 ## My Certification Goals  
 
@@ -35,14 +35,7 @@ Terraform
 1 x Dell Inspiron 15 3558 i3/4GB/480GB   
 1 x HP ProDesk 600 G3 i5/8GB/256GB   
 1 x tp-link 8-port 10/100/1000   
-
 Ubuntu Server 24.04.3 LTS   
-
-1 x Lenovo ThinkPad T480 i7/16GB/512GB   
-
-Arch Linux installed and successful 1st boot!   
-Hyprland, alacritty, waybar, and QuteBrowser installed.  
-Sound,BT, and WiFi configured. Power Management next.
 
 ### Security
 
@@ -51,8 +44,9 @@ OPNSense
 ### My Distros
 
 MBP 13" i5/8GB/500GB   
-
 Fedora 43 Workstation   
+
+Lenovo ThinkPad T480 i7/16GB/512GB   
 Ubuntu 25.10 Desktop  
 
 ### Programming / Scripting
