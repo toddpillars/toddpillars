@@ -58,9 +58,9 @@ JSON
 
 ### Books I'm Reading
 
-The DevOps Handbook https://amzn.to/496ick5 #ad   
-The Pheonix Project https://amzn.to/4971ocP #ad   
-The Unicorn Project https://amzn.to/3MCcf75 #ad   
+The DevOps Handbook  
+The Phoenix Project     
+The Unicorn Project     
 
 <!--
 **tpillars25/tpillars25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
