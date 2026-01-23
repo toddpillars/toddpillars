@@ -8,7 +8,9 @@ Now I host a K3s Kubernetes Cluster behind my desk!
 
 ## My Philosophy on Technology 
 
-The Human Element  
+The more Hi-Tech we get, the more high-touch we have to be.   
+
+**The Human Element**  
 
 I am a USA Hockey Level 4 Youth Hockey Coach 
 
@@ -24,15 +26,21 @@ I also play with the Tampa Bay Lightning Warriors, a US Military Veteran's team.
 
 ## Things that I'm working on:
 
-Learning K3s.io in Public <a href="https://github.com/toddpillars/homelab">https://github.com/toddpillars/homelab</a>
+Learning DevOps/AIOps in Public <a href="https://github.com/toddpillars/homelab">https://github.com/toddpillars/homelab</a>
 
-Cloud Certifications - still weighing whether it'll be GCP (Google Cloud Platform) or AWS (Amazon Web Services)   
+Cloud Certifications - I've decided to get GCP (Google Cloud Platform) certified.  
 
 Terraform   
+Ansible   
+FluxCD   
+Helm   
+Prometheus   
+Grafana
+Renovate
 
 ### My Homelab
 
-1 x Dell Inspiron 15 3558 i3/4GB/480GB   
+1 x Dell Inspiron 15 3558 i3/16GB/512GB   
 1 x HP ProDesk 600 G3 i5/8GB/256GB   
 1 x tp-link 8-port 10/100/1000   
 Ubuntu Server 24.04.3 LTS   
@@ -47,7 +55,7 @@ MBP 13" i5/8GB/500GB
 Fedora 43 Workstation   
 
 Lenovo ThinkPad T480 i7/16GB/512GB   
-Ubuntu 25.10 Desktop  
+Fedora Sway Spin  
 
 ### Programming / Scripting
 
