@@ -20,9 +20,9 @@ I also play with the Tampa Bay Lightning Warriors, a US Military Veteran's team.
 
 ## My Certification Goals  
 
-5/12/26 for the Kubernetes and Cloud Native Associate Exam (KCNA) Exam  
+6/12/26 for the Kubernetes and Cloud Native Associate Exam (KCNA) Exam  
 
-6/30/26 for the Certified Kubernetes Administrator (CKA) Exam  
+7/30/26 for the Certified Kubernetes Administrator (CKA) Exam  
 
 ## Things that I'm working on:
 
@@ -40,13 +40,16 @@ Renovate
 
 ### My Homelab
 
-1 x Protectli FW4B 8GB/128GB
-1 x Dell Inspiron 15 3558 i3/16GB/512GB   
-1 x HP ProDesk 600 G3 i5/8GB/256GB   
-1 x tp-link 8-port 10/100/1000   
+1 x Protectli FW4B 8GB/128GB  
+1 x Dell Inspiron 15 3558 i3/16GB/512GB  
+1 x HP ProDesk 600 G3 i5/8GB/256G  
+1 x HP Z640 Xeon E5 v4/32GB/500GB SSD & 500GB SATA 7,200
+  2 x EVGA RTX 3060 XC 12GB GPU
+1 x tp-link 8-port 10/100/1000  
 
 Ubuntu Server 24.04.3 LTS   
 K3s 
+vLLM
 
 ### Security
 
