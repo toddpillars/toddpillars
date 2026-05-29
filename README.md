@@ -1,14 +1,16 @@
 # Hi 👋, I'm Todd
 
-## I'm building Ops and Cloud Native skills in Public.
+## I'm learning DevOps, AIOps, and Forward Deployed Engineer (FDE) in Public
 
-Almost 30 years ago, I met my first love... of Linux, Red Hat v4.1 from a CD in the back of a book. Yes, a real book.
+Almost 30 years ago, I installed Red Hat Linux 4.1 for the first time.  
 
-Now I host a K3s Kubernetes Cluster behind my desk!
+Now, almost all the Cloud runs some version of Linux.  
+
+So I decided to build a mini Data Center on Kubernetes behind my desk!
 
 ## My Philosophy on Technology 
 
-The more Hi-Tech we get, the more high-touch we have to be.   
+The more Hi-Tech we get, the more high-touch we have to be. Empathy should guide every decision.   
 
 **The Human Element**  
 
@@ -20,13 +22,13 @@ I also play with the Tampa Bay Lightning Warriors, a US Military Veteran's team.
 
 ## My Certification Goals  
 
-6/12/26 for the Kubernetes and Cloud Native Associate Exam (KCNA) Exam  
+6/21/26 for the Kubernetes and Cloud Native Associate Exam (KCNA) Exam  
 
 7/30/26 for the Certified Kubernetes Administrator (CKA) Exam  
 
 ## Things that I'm working on:
 
-Learning DevOps/AIOps in Public <a href="https://github.com/toddpillars/homelab">https://github.com/toddpillars/homelab</a>
+Learning DevOps/AIOps in Public <a href="https://github.com/toddpillars/homelab">https://github.com/toddpillars/homelab</a> <- This Repo   
 
 Cloud Certifications - I've decided to get GCP (Google Cloud Platform) certified.  
 
@@ -40,12 +42,12 @@ Renovate
 
 ### My Homelab
 
-1 x Protectli FW4B 8GB/128GB  
-1 x Dell Inspiron 15 3558 i3/16GB/512GB  
-1 x HP ProDesk 600 G3 i5/8GB/256G  
-1 x HP Z640 Xeon E5 v4/32GB/500GB SSD & 500GB SATA 7,200
-  2 x EVGA RTX 3060 XC 12GB GPU
-1 x tp-link 8-port 10/100/1000  
+- 1 x Protectli FW4B 8GB/128GB  
+- 1 x Dell Inspiron 15 3558 i3/16GB/512GB  
+- 1 x HP ProDesk 600 G3 i5/8GB/256G  
+- 1 x HP Z640 Xeon E5 v4/32GB/500GB SSD & 500GB SATA 7,200
+  - 2 x EVGA RTX 3060 XC 12GB GPU
+- 1 x tp-link 8-port 10/100/1000  
 
 Ubuntu Server 24.04.3 LTS   
 K3s 
