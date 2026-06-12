@@ -18,11 +18,11 @@ I am a USA Hockey Level 4 Youth Hockey Coach
 
 I coach 16U-18U High School Varsity and JV level.  
 
-I also play with the Tampa Bay Lightning Warriors, a US Military Veteran's team.
+I also play with the <a href="https://www.facebook.com/lightningwarriorshockey">Tampa Bay Lightning Warriors</a>, a US Military Veteran's team.
 
 ## My Certification Goals  
 
-6/21/26 for the Kubernetes and Cloud Native Associate Exam (KCNA) Exam  
+<a href="https://www.credly.com/badges/148599e2-0437-43e3-995f-09ea0bb7f450/public_url">Certified!</a> Kubernetes and Cloud Native Associate (KCNA)  
 
 7/30/26 for the Certified Kubernetes Administrator (CKA) Exam  
 
@@ -49,8 +49,9 @@ Renovate
   - 2 x EVGA RTX 3060 XC 12GB GPU
 - 1 x tp-link 8-port 10/100/1000  
 
-Ubuntu Server 24.04.3 LTS   
-K3s 
+Ubuntu Server 24.04 LTS   
+K3s
+KServe
 vLLM
 
 ### Security
