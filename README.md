@@ -18,11 +18,11 @@ I am a USA Hockey Level 4 Youth Hockey Coach
 
 I coach 16U-18U High School Varsity and JV level.  
 
-I also play with the <a href="https://www.facebook.com/lightningwarriorshockey">Tampa Bay Lightning Warriors</a>, a US Military Veteran's team.
+I also play with the <a href="https://www.facebook.com/lightningwarriorshockey" target="_blank">Tampa Bay Lightning Warriors</a>, a US Military Veteran's team.
 
 ## My Certification Goals  
 
-<a href="https://www.credly.com/badges/148599e2-0437-43e3-995f-09ea0bb7f450/public_url">Certified!</a> Kubernetes and Cloud Native Associate (KCNA)  
+<a href="https://www.credly.com/badges/148599e2-0437-43e3-995f-09ea0bb7f450/public_url" target="_blank">Certified!</a> Kubernetes and Cloud Native Associate (KCNA)  
 
 7/30/26 for the Certified Kubernetes Administrator (CKA) Exam  
 
