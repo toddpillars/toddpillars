@@ -51,8 +51,7 @@ Renovate
 
 Ubuntu Server 24.04 LTS   
 K3s
-KServe
-vLLM
+Llama.cpp
 
 ### Security
 
