@@ -1,82 +1,52 @@
 # Hi 👋, I'm Todd
 
-## I'm learning DevOps, AIOps, and Forward Deployed Engineer (FDE) in Public
+**AI enablement engineer. I get whole teams using AI, not just the early adopters, and build it so it holds after I leave.**
 
-Almost 30 years ago, I installed Red Hat Linux 4.1 for the first time.  
+I run [Gulfside AI](https://gulfsideai.com), embedding with small and lower-mid-market companies to find the repetitive work, build the agents and workflows that remove it, and train the team to run them afterward. Most recently that meant taking a fifteen-person distributed firm from four AI users to all fifteen in ninety days, with adoption still holding sixty days after handoff.
 
-Now, almost all the Cloud runs some version of Linux.  
+I installed Red Hat Linux 4.1 almost thirty years ago. Now nearly all the cloud runs some version of Linux, so I built a data center behind my desk and moved my own operation onto it.
 
-So I decided to build a mini Data Center on Kubernetes behind my desk!
+## Building in public
 
-## My Philosophy on Technology 
+Everything I recommend to a client runs here first. If it hasn't survived contact with my own infrastructure, I don't recommend it.
 
-The more Hi-Tech we get, the more high-touch we have to be. Empathy should guide every decision.   
+- [**homelab**](https://github.com/toddpillars/homelab) — The infrastructure this all runs on. K3s, GitOps delivery, local inference, observability.
+<!--
+- [**gulfsideai**](https://github.com/toddpillars/gulfsideai) — Company site. Astro.
+-->
+## What runs here
 
-**The Human Element**  
+| | |
+|---|---|
+| **Orchestration** | K3s on Ubuntu Server 24.04 LTS, FluxCD, Helm, Renovate |
+| **Inference** | llama.cpp on dual RTX 3060 XCs, for workloads that can't leave a private network |
+| **Agents** | Chief of staff, market research, business intelligence. Daily use, not demos. |
+| **Knowledge** | OKF LLM-wiki |
+| **Observability** | Prometheus, Grafana, Loki |
+| **Edge** | OPNsense on Protectli hardware |
 
-I am a USA Hockey Level 4 Youth Hockey Coach 
+**The metal:** 3 x HP ProDesk 600 G3 (i5/16GB) · HP Z640 Xeon E5 v4 with 2 x EVGA RTX 3060 XC 12GB · Lenovo T480 (i7/32GB) · Protectli FW4B · tp-link 8-port gigabit
 
-I coach 16U-18U High School Varsity and JV level.  
+**Working with:** Python · Bash · YAML
 
-I also play with the <a href="https://www.facebook.com/lightningwarriorshockey" target="_blank">Tampa Bay Lightning Warriors</a>, a US Military Veteran's team.
+## Certifications
 
-## My Certification Goals  
+- **Kubernetes and Cloud Native Associate (KCNA)** — CNCF, June 2026 · [verify](https://www.credly.com/badges/148599e2-0437-43e3-995f-09ea0bb7f450/public_url)
+- Next: Google Cloud Platform 
 
-<a href="https://www.credly.com/badges/148599e2-0437-43e3-995f-09ea0bb7f450/public_url" target="_blank">Certified!</a> Kubernetes and Cloud Native Associate (KCNA)  
+## Philosophy
 
-7/30/26 for the Certified Kubernetes Administrator (CKA) Exam  
+The more hi-tech we get, the more high-touch we have to be. Empathy should guide every decision.
 
-## Things that I'm working on:
+That isn't a slogan I picked up for AI work. I spent seventeen years as a certified speaker and coach before this, and the reason adoption programs fail is almost never the technology.
 
-Learning DevOps/AIOps in Public <a href="https://github.com/toddpillars/homelab">https://github.com/toddpillars/homelab</a> <- This Repo   
+## The human element
 
-Cloud Certifications - I've decided to get GCP (Google Cloud Platform) certified.  
+USA Hockey Level 4 coach, 16U through high school varsity and JV. I also play with the [Tampa Bay Lightning Warriors](https://www.facebook.com/lightningwarriorshockey), a US military veterans team.
 
-Terraform   
-Ansible   
-FluxCD   
-Helm   
-Prometheus   
-Grafana
-Renovate
+---
 
-### My Homelab
-
-- 1 x Protectli FW4B 8GB/128GB  
-- 1 x Dell Inspiron 15 3558 i3/16GB/512GB  
-- 3 x HP ProDesk 600 G3 i5/16GB/256G  
-- 1 x HP Z640 Xeon E5 v4/32GB/500GB SSD & 500GB SATA 7,200
-  - 2 x EVGA RTX 3060 XC 12GB GPU
-- 1 x tp-link 8-port 10/100/1000  
-
-Ubuntu Server 24.04 LTS   
-K3s
-Llama.cpp
-
-### Security
-
-OPNSense    
-
-### My Distros
-
-MBP 13" i5/8GB/500GB   
-Fedora 43 Workstation   
-
-Lenovo ThinkPad T480 i7/16GB/512GB   
-Fedora Sway Spin  
-
-### Programming / Scripting
-
-Python   
-Bash <a href="https://tldp.org/LDP/Bash-Beginners-Guide/html/">Bash Guide for Beginners</a> by Machetelt Garrels   
-YAML   
-JSON   
-
-### Books I'm Reading
-
-The DevOps Handbook  
-The Phoenix Project     
-The Unicorn Project     
+[toddpillars.com](https://toddpillars.com) · [LinkedIn](https://www.linkedin.com/in/toddpillars) · [@toddpillars](https://x.com/toddpillars)
 
 <!--
 **tpillars25/tpillars25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
