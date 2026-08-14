@@ -1,8 +1,8 @@
 # Hi 👋, I'm Todd
 
-**AI enablement engineer. I get whole teams using AI, not just the early adopters, and build it so it holds after I leave.**
+**FDE and Applied AI enablement engineer. I get whole teams using AI, not just the early adopters, and build it so it holds after I leave.**
 
-I run [Gulfside AI](https://gulfsideai.com), embedding with small and lower-mid-market companies to find the repetitive work, build the agents and workflows that remove it, and train the team to run them afterward. Most recently that meant taking a fifteen-person distributed firm from four AI users to all fifteen in ninety days, with adoption still holding sixty days after handoff.
+I run [Gulfside AI](https://gulfsideai.com), embedding with small and lower-mid-market companies to find the repetitive work, build the agents and workflows that remove it, and train the team to run them afterward. Most recently, that meant taking a fifteen-person distributed firm from four AI users to all fifteen in ninety days, with adoption still holding sixty days after handoff.
 
 I installed Red Hat Linux 4.1 almost thirty years ago. Now nearly all the cloud runs some version of Linux, so I built a data center behind my desk and moved my own operation onto it.
 
